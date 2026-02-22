@@ -2,10 +2,16 @@ First make sure mic is on through geforce menu, then go to audio settings in gam
 
 ![Step 1](Step1.png)
 
+
 ![Step 2 - Audio](Step2%20(audio).png)
+
 
 ![Step 3 - Audio](Step3%20(audio).png)
 
+
+GRAPHICS SETTINGS
+
 ![Step 5 - Graphics](Step5%20(graphics).png)
+
 
 ![Step 6 - Graphics](Step6%20(graphics).png)
